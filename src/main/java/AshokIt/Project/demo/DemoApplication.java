@@ -8,7 +8,7 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		int i=10;
-		int j=20;
+		int j=30;
 
 		String name="Rajendra"
 		char c='cha';
