@@ -9,6 +9,8 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		int i=10;
 		int j=20;
+		boolean b=false;
+		boolean b1=true;
 		system.out.println("Rajendra");
 		SpringApplication.run(DemoApplication.class, args);
 	}
